@@ -1,5 +1,5 @@
 {
-    "name": "Google Search Console",
+    "name": "Google Search Console BlackSip",
       "headline": "Conecte su tienda VTEX al servicio de optimización de indexación de Google.",
     "overview": "Search Console es un servicio gratuito de Google para verificar el estado de indexación de su tienda en los motores de búsqueda y optimizar la visibilidad de su ecommerce.\\n\\n Esta aplicación implementa la configuración de Google Search Console en su tienda usando el admin de VTEX. Usted deberá ingresar su ID de Search Console en la página de configuración de la aplicación.",
     "features": [

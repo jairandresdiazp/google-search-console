@@ -1,9 +1,9 @@
 {
-  "vendor": "vtex",
+  "vendor": "blacksipqa",
   "name": "google-search-console",
-  "version": "1.0.3",
-  "title": "Google Search Console",
-  "description": "Google Search Console",
+  "version": "0.0.1",
+  "title": "Google Search Console BlackSip",
+  "description": "Google Search Console BlackSip",
   "builders": {
     "pixel": "0.x",
     "docs": "0.x"
@@ -27,8 +27,12 @@
     "type": "object",
     "properties": {
       "content": {
-        "title": "Content",
-        "type": "string"
+        "title": "Contents",
+        "type": "array",
+        "items": {
+          "type": "string",
+          "title": "Content"
+        }
       }
     }
   },
